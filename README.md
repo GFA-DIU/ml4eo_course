@@ -5,7 +5,7 @@
 ## About this course
 
 ### Summary
-In this self-paced course, you will learn about the concept of Open Machine Learning in Earth Observation. It will take you about 18 hours to complete the course and you will be automatically issued an Open Badge certificate after completion of all activities.
+In this self-paced course, you will learn about the concept of Open Machine Learning in Earth Observation. It will take you about 18 hours to complete the course. The provision of these train materials are meant for self-directed independent learning. No certification is provided.
 
 ### Who is this course for?
 This course has been created for everyone with a background in data science, data engineering and machine learning (ML), with a strong interest in geospatial and remote sensing data as well as related business models.
