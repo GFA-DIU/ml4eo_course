@@ -1,3 +1,5 @@
+<img src="https://github.com/GFA-DIU/ml4eo_course/logos.png?raw=true" align="top" />
+
 # Machine Learning for Earth Observation
 
 ## About this course
