@@ -1,4 +1,7 @@
-<img src="https://github.com/GFA-DIU/ml4eo_course/logos.png?raw=true" align="top" />
+<img src="https://github.com/GFA-DIU/ml4eo_course/blob/main/logos.png?raw=true" align="top" />
+<!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
+
+
 
 # Machine Learning for Earth Observation
 
