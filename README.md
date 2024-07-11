@@ -16,15 +16,15 @@ This course introduces the concepts Machine learning, GIS, Remote Sensing and GI
 ### How much time will you need?
 It will take you around 18 hours to complete this course.
 
-* Topics Overview:* Introduction to GIS; Introduction to Remote Sensing; GIS data collection methods; Introduction to ML and Python
+* **Topics Overview:** Introduction to GIS; Introduction to Remote Sensing; GIS data collection methods; Introduction to ML and Python
 
-* Course Developer:* This course has been developed by GFA Consulting Group GmbH in cooperation with GIZ, Fair Forward and Digital Transformation Center Rwanda.
+* **Course Developer:** This course has been developed by GFA Consulting Group GmbH in cooperation with GIZ, Fair Forward and Digital Transformation Center Rwanda.
 
-* Contact Person:* For questions related to the course content, please contact golo.rademacher@giz.de.
+* **Contact Person:** For questions related to the course content, please contact golo.rademacher@giz.de.
 
-* Content License:* CC-BY-SA
+* **Content License:** CC-BY-SA
 
-* Publication Date:* 01 February 2024
+* **Publication Date:** 01 February 2024
 
 
 ### How to get started?
