@@ -1,7 +1,4 @@
 <img src="https://github.com/GFA-DIU/ml4eo_course/blob/main/logos.png?raw=true" align="top" />
-<!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
-
-
 
 # Machine Learning for Earth Observation
 
@@ -28,4 +25,15 @@ It will take you around 18 hours to complete this course.
 * Content License:* CC-BY-SA
 
 * Publication Date:* 01 February 2024
+
+
+### How to get started?
+1. Review the Curriculum_Outline.docx file for an overview of each module
+2. Depending on your level of familiarity, select a module to start with. The modules typically build on each other, but the initial modules may be overly basic for some learners (e.g. Module 4 Introduction to Machine Learning and Python)
+3. Review the module outline file for an overview of the learning objectives
+4. Review the module reader (docx files)
+5. Read the lecture notes (pptx files)
+6. Complete the exercises
+
+
 
